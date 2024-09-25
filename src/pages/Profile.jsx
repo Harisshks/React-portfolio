@@ -6,7 +6,7 @@ const Profile = () => {
   return (
     <>
       <Navbar />
-      <div className='h-screen w-screen  bg-orange-100 bg-opacity-40 flex  flex-col items-center'>
+      <div className='h-screen w-full  bg-orange-100 bg-opacity-40 flex  flex-col items-center'>
         <div className='h-screen w-screen flex justify-center'>
           <div className='h-screen w-[60%] flex flex-col justify-start my-20 items-center ml-6'>
             <div className="text-black w-1/2 h-1/10 my-10 font-semibold text-5xl flex justify-center items-center">
